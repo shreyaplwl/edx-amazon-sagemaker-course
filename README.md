@@ -18,7 +18,7 @@ ML and Amazon SageMaker Terminology<br />
 Amazon SageMaker Algorithms<br />
 Weekly Quiz, Readings, Resources, and Discussion<br />
 Week 4<br />
-Application Integration<br /><br />
+Application Integration<br />
 Integrating Amazon SageMaker with your Application
 Bring Your Own Models<br />
 Weekly Quiz, Readings, Resources, and Discussion<br />
