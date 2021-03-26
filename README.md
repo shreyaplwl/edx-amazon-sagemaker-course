@@ -27,5 +27,6 @@ Edx course "Amazon SageMaker: Simplifying Machine Learning Application Developme
 <li>Weekly Quiz, Readings, Resources, and Discussion</li><br />
 <li>End of Course Assessment</li><br />
 <li>Final Exam due DATE</li><br />
-# References:<br />
+  
+  # References:<br />
 Link to edx Course. https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD4+3T2018/course/
